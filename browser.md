@@ -13,5 +13,3 @@
 * [Филип Робертс. Про цикл событий в JavaScript или "как на самом деле работает асинхронность"?](https://www.youtube.com/watch?v=8cV4ZvHXQL4)
 * [Сергей Ufocoder. Event Loop in the browser Javascript](https://www.youtube.com/watch?v=aUigiwN0NEw)
 * [The Rolling Scopes. Event Loop + Animations (26.04.2019)](https://www.youtube.com/watch?v=N5LUT_kaK4k)
-* Event Loop в Node.js, отличия от бразуера
-  * [Сергей Аванесян. Event loop в Node.js](https://www.youtube.com/watch?v=7f787SsgknA)
