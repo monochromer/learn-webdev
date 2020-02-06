@@ -1,10 +1,10 @@
 # Креативность, арт, canvas, WebGL
 
-# Сайты
+## Сайты
 * [https://tympanus.net/codrops/](https://tympanus.net/codrops/)
 * [CodePen](https://codepen.io/)
 
-# Видео-каналы
+## Видео-каналы
 * [Юрий Артюх. Анимации, WebGL](https://www.youtube.com/user/flintyara)
 * [keyframers. An animated, collaborative coding live stream by David Khourshid (@davidkpiano) & Stephen Shaw (@shshaw)](https://www.youtube.com/channel/UCtmYk7H-NNYLEe_LgBRYomA)
 
