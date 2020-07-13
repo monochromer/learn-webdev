@@ -10,6 +10,7 @@
 
 ## Видео
 * [Сергей Аванесян. Event loop в Node.js](https://www.youtube.com/watch?v=7f787SsgknA)
+* [Лекция о Node.js в Школе разработки интерфейсов Яндекса (2019-2020)](https://www.youtube.com/watch?v=qZ5xzkEdkhg&list=PLKaafC45L_SRoYnuEW5cgqHN-kpSTVfMs&index=3)
 
 ## Курсы
 * [Курс от learn.javascript.ru](https://learn.javascript.ru/courses/nodejs)
