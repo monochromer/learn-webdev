@@ -15,3 +15,7 @@
 ## Курсы
 * [Курс от learn.javascript.ru](https://learn.javascript.ru/courses/nodejs)
 * [Тимур Шемсединов. Курс по Node.js](https://habr.com/ru/post/485294/), [Канал на YouTube](https://www.youtube.com/user/sthxnp/videos?view=0&sort=da&flow=grid)
+
+## Сайты
+* [Руководство nodejs.dev](https://nodejs.dev/), [перевод на русский](https://habr.com/ru/post/509080/)
+* [Новости и статьи от NodeSource](https://node.dev/)
