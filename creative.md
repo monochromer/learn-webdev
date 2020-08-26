@@ -7,6 +7,7 @@
 ## Видео-каналы
 * [Юрий Артюх. Анимации, WebGL](https://www.youtube.com/user/flintyara)
 * [keyframers. An animated, collaborative coding live stream by David Khourshid (@davidkpiano) & Stephen Shaw (@shshaw)](https://www.youtube.com/channel/UCtmYk7H-NNYLEe_LgBRYomA)
+* [Akram Khalid](https://www.youtube.com/c/WrongAkram)
 
 ## Люди
 * [Ivan Bogachev](https://habr.com/ru/users/sfi0zy/posts/)
