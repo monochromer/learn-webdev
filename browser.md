@@ -10,6 +10,7 @@
 * [Никита Мостовой. Оптимизация производительности фронтенда. Часть 2. Event loop, layout, paint, composite](https://habr.com/ru/company/hh/blog/517594/)
 * [Устройство современного веб-браузера Chrome. Серия статей](https://habr.com/ru/post/526696/)
 * [ Aditya Yaduvanshi. Основы внутреннего устройства JavaScript](https://habr.com/ru/company/alfa/blog/651005/)
+* [Paulo Santos. Как работает браузер](https://habr.com/ru/company/skillfactory/blog/678400/)
 
 ## Видео
 
