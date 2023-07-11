@@ -7,7 +7,7 @@
 * Важные аспекты работы браузера для разработчиков. [Часть 1](https://habr.com/ru/company/dataart/blog/304138/), [Часть 2](https://habr.com/ru/company/dataart/blog/304934/)
 * [Гарри Робертс. CSS и производительность сети](https://css-live.ru/articles/css-i-proizvoditelnost-seti.html) ([оригинал](https://csswizardry.com/2018/11/css-and-network-performance/))
 * [Ильгам Габдуллин. Рендеринг веб сайтов 101](https://habr.com/ru/post/484900/)
-* [Никита Мостовой. Оптимизация производительности фронтенда. Часть 2. Event loop, layout, paint, composite](https://habr.com/ru/company/hh/blog/517594/)
+* Никита Мостовой. [Оптимизация производительности фронтенда. Часть 1. Critical Render Path](https://habr.com/ru/company/hh/blog/513940/), [Оптимизация производительности фронтенда. Часть 2. Event loop, layout, paint, composite](https://habr.com/ru/company/hh/blog/517594/)
 * [Устройство современного веб-браузера Chrome. Серия статей](https://habr.com/ru/post/526696/)
 * [ Aditya Yaduvanshi. Основы внутреннего устройства JavaScript](https://habr.com/ru/company/alfa/blog/651005/)
 * [Paulo Santos. Как работает браузер](https://habr.com/ru/company/skillfactory/blog/678400/)
