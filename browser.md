@@ -11,7 +11,7 @@
 * [Устройство современного веб-браузера Chrome. Серия статей](https://habr.com/ru/post/526696/)
 * [ Aditya Yaduvanshi. Основы внутреннего устройства JavaScript](https://habr.com/ru/company/alfa/blog/651005/)
 * [Paulo Santos. Как работает браузер](https://habr.com/ru/company/skillfactory/blog/678400/)
-* [Сергей Чикуенок. Копаемся под капотом браузера, как работает event loop и compositing](https://www.youtube.com/watch?v=RzTDxlKABRs&t=19118s)
+* [Сергей Чикуенок. Копаемся под капотом браузера, как работает event loop и compositing](https://www.youtube.com/watch?v=On2EWADF81Y)
 
 ## Видео
 
