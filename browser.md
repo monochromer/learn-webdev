@@ -3,7 +3,7 @@
 ## Статьи
 
 * [Что на самом деле происходит, когда пользователь вбивает в браузер адрес google.com](https://habr.com/ru/company/htmlacademy/blog/254825/)
-* [Принципы работы современных веб-браузеров](https://www.html5rocks.com/ru/tutorials/internals/howbrowserswork)
+* [Принципы работы современных веб-браузеров](https://www.html5rocks.com/ru/tutorials/internals/howbrowserswork), https://web.dev/articles/howbrowserswork
 * Важные аспекты работы браузера для разработчиков. [Часть 1](https://habr.com/ru/company/dataart/blog/304138/), [Часть 2](https://habr.com/ru/company/dataart/blog/304934/)
 * [Гарри Робертс. CSS и производительность сети](https://css-live.ru/articles/css-i-proizvoditelnost-seti.html) ([оригинал](https://csswizardry.com/2018/11/css-and-network-performance/))
 * [Ильгам Габдуллин. Рендеринг веб сайтов 101](https://habr.com/ru/post/484900/)
