@@ -12,6 +12,7 @@
 * [ Aditya Yaduvanshi. Основы внутреннего устройства JavaScript](https://habr.com/ru/company/alfa/blog/651005/)
 * [Paulo Santos. Как работает браузер](https://habr.com/ru/company/skillfactory/blog/678400/)
 * [Сергей Чикуенок. Копаемся под капотом браузера, как работает event loop и compositing](https://www.youtube.com/watch?v=On2EWADF81Y)
+* - [Полное понимание асинхронности в браузере](https://habr.com/ru/companies/yandex/articles/718084/)
 
 ## Видео
 
